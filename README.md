@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computational Biology, Bioinformatics, Machine Learning, Optimization, Programming, Advent of Code,
 - 🌱 I’m currently doing my PhD in Computational Biology, focused on Acute Myeloid Leukemia.
 - 💞️ I’m looking to collaborate on anything regarding computational biology and the sort.
-- 📫 How to reach me, via email! dolaverrim@unav.es
+- 📫 How to reach me, via email! daneltsu@gmail.com
 - 🎮 Factorio, DnD, Stardew Valley, Dark Souls.
 - 📚 Any fantasy or sci-fi book!
 <!---
